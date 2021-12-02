@@ -2,7 +2,7 @@
 
 [![Kaios's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiohenrikk&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/kaio-henrik-paula-silva-729366185/)
 
 ## Tecnologias que estou estudando de forma constante desde que comecei 🖥️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
