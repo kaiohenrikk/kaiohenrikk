@@ -2,7 +2,7 @@
 
 ## Stats
 
-[![Kaios's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiohenrikk&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Kaios's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiohenrikk&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiohenrikk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
